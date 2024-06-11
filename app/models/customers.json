@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "dob": "1980-01-01",
+    "icNumber": "123456789012",
+    "registerDate": "2022-01-01",
+    "address": "123 Main St"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "dob": "1985-02-02",
+    "icNumber": "123456789013",
+    "registerDate": "2022-02-02",
+    "address": "456 Elm St"
+  },
+  {
+    "id": "3",
+    "name": "Alice Johnson",
+    "dob": "1990-03-03",
+    "icNumber": "123456789014",
+    "registerDate": "2022-03-03",
+    "address": "789 Oak St"
+  },
+  {
+    "id": "4",
+    "name": "Bob Brown",
+    "dob": "1975-04-04",
+    "icNumber": "123456789015",
+    "registerDate": "2022-04-04",
+    "address": "101 Pine St"
+  },
+  {
+    "id": "5",
+    "name": "Carol White",
+    "dob": "1995-05-05",
+    "icNumber": "123456789016",
+    "registerDate": "2022-05-05",
+    "address": "202 Maple St"
+  }
+]
